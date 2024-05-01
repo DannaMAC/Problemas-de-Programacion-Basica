@@ -1,4 +1,3 @@
-//Autor: Danna Maribel Corral Salcedo 
 //9.- Introducir un número por teclado y que nos diga si es positivo o negativo.
 
 const readline = require('readline');
