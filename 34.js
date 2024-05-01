@@ -1,4 +1,3 @@
-//Autor: Danna Maribel Corral Salcedo
 //34.- Usando el segundo ejemplo, hacer un programa que busque una nota en la lista.
 
 const readline = require('readline');
