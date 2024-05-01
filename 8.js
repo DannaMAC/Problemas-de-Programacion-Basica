@@ -1,4 +1,3 @@
-//Autor: Danna Maribel Corral Salcedo 
 //8.- Hacer un programa que solo nos permita introducir S o N.
 
 const readline = require('readline');
