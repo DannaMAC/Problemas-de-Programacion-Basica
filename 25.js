@@ -1,4 +1,3 @@
-//Autor: Danna Maribel Corral Salcedo
 //25.- Introducir un número menor de 5000 y pasarlo a numero romano.
 
 const readline = require('readline');
