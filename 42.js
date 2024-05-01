@@ -1,4 +1,3 @@
-//Autor: Danna Maribel Corral Salcedo 
 //42.- Hacer un programa que nos permita dar bajas en el fichero DATOS.DAT.
 
 const fs = require('fs');
