@@ -1,4 +1,3 @@
-//Autor: Danna Maribel Corral Salcedo
 //30.- Introducir dos números por teclado y mediante un menú, calcule su suma, su resta, su
 //multiplicación o su división.
 
