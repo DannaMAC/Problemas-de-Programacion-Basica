@@ -1,4 +1,3 @@
-//Autor: Danna Maribel Corral Salcedo
 //26.- Introducir una frase por teclado e imprimirla en el centro de la pantalla.
 
 const readline = require('readline');
