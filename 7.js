@@ -1,4 +1,3 @@
-//Autor: Danna Maribel Corral Salcedo 
 //7.- Introducir tantas frases como queramos y contarlas.
 
 const readline = require('readline');
