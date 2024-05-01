@@ -1,4 +1,3 @@
-//Autor: Danna Maribel Corral Salcedo
 //24.- Comprobar si un número mayor o igual que la unidad es primo.
 
 const readline = require('readline');
