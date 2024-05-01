@@ -1,4 +1,3 @@
-//Autor: Danna Maribel Corral Salcedo 
 //10.- Introducir un numero por teclado y que nos diga si es par o impar.
 
 const readline = require('readline');
