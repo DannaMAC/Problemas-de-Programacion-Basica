@@ -1,4 +1,3 @@
-//Autor: Danna Maribel Corral Salcedo 
 //5.-Hacer un programa que imprima los números impares hasta el 100 y que imprima cuantos
 //impares hay.
 
