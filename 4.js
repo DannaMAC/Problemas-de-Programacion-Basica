@@ -1,4 +1,3 @@
-//Autor: Danna Maribel Corral Salcedo 
 //4.- Hacer un programa que imprima la suma de los 100 primeros numeros.
 
 let suma = 0;
