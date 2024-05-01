@@ -1,4 +1,3 @@
-//Autor: Danna Maribel Corral Salcedo
 //28.- Simular el lanzamiento de una moneda al aire e imprimir cara o cruz.
 
 const readline = require('readline');
