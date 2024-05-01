@@ -1,4 +1,3 @@
-//Autor: Danna Maribel Corral Salcedo
 //33.- Hacer un programa que lea las calificaciones de un alumno en 10 asignaturas, las almacene
 //en un arreglo y calcule e imprima su media.
 
